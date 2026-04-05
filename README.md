@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--              KAZI SALMAN · SYSTEM README · v3.0            -->
+<!--              KAZI SALMAN · SYSTEM README                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -19,9 +19,9 @@
 ```yaml
 name       : Kazi Salman
 role       : AI Systems Builder · Full-Stack Product Engineer
-location   : Dhaka, Bangladesh
+location   : Dhaka, Bangladesh  🇧🇩
 education  : BRAC University — B.Sc. CSE
-
+hardware   : NVIDIA RTX 3060 12GB  (local AI stack lives here)
 
 building   :
   - Starline       → digital backbone for intercity bus transport in BD
@@ -184,8 +184,6 @@ tools       = ["Git", "VS Code", "Resend", "Cloudinary"]
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kazisalman21&bg_color=000000&color=A78BFA&line=7C3AED&point=F59E0B&area=true&area_color=1a0533&hide_border=true&custom_title=%E2%96%BA%20Contribution%20Timeline%20%E2%80%94%20kazisalman21&radius=4" />
 
-<img width="54%" src="https://streak-stats.demolab.com?user=kazisalman21&theme=dark&hide_border=true&background=000000&stroke=7C3AED&ring=A78BFA&fire=F59E0B&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=7C3AED&dates=4B5563&border_radius=4" />
-
 </div>
 
 ---
@@ -215,8 +213,13 @@ tools       = ["Git", "VS Code", "Resend", "Cloudinary"]
 ---
 
 <div align="center">
+
 <br/>
+
 <p><em>"I don't build for portfolios.<br/>I build because the problems are real,<br/>and the people who have them deserve better software."</em></p>
+
 <p><strong>— Kazi Salman</strong></p>
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:1a0533,100:000000&height=90&section=footer&text=SYSTEM+UPTIME%3A+ONGOING&fontSize=13&fontColor=7C3AED&fontAlignY=55&animation=fadeIn" />
+
 </div>
