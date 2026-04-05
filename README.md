@@ -19,9 +19,9 @@
 ```yaml
 name       : Kazi Salman
 role       : AI Systems Builder · Full-Stack Product Engineer
-location   : Dhaka, Bangladesh  🇧🇩
+location   : Dhaka, Bangladesh
 education  : BRAC University — B.Sc. CSE
-hardware   : NVIDIA RTX 3060 12GB  (local AI stack lives here)
+
 
 building   :
   - Starline       → digital backbone for intercity bus transport in BD
