@@ -215,15 +215,8 @@ tools       = ["Git", "VS Code", "Resend", "Cloudinary"]
 ---
 
 <div align="center">
-
-```
-  "I don't build for portfolios.
-   I build because the problems are real,
-   and the people who have them deserve better software."
-
-                                             — Kazi Salman
-```
-
+<br/>
+<p><em>"I don't build for portfolios.<br/>I build because the problems are real,<br/>and the people who have them deserve better software."</em></p>
+<p><strong>— Kazi Salman</strong></p>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:1a0533,100:000000&height=90&section=footer&text=SYSTEM+UPTIME%3A+ONGOING&fontSize=13&fontColor=7C3AED&fontAlignY=55&animation=fadeIn" />
-
 </div>
