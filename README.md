@@ -1,86 +1,132 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              KAZI SALMAN · SYSTEM README · v3.0            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:1a0533,60:2d1b69,100:0a0a0a&height=250&section=header&text=Kazi%20Salman&fontSize=72&fontColor=E2D9F3&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Civic%20Tech%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=62&descSize=17&stroke=7C3AED&strokeWidth=2&animation=fadeIn" />
-
-<img src="https://komarev.com/ghpvc/?username=kazisalman21&label=Profile%20Views&color=7C3AED&style=flat-square" />
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/kazisalman21?label=Followers&style=flat-square&color=7C3AED)](https://github.com/kazisalman21)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a0614,60:1e0d3e,100:000000&height=210&section=header&text=KAZI%20SALMAN&fontSize=64&fontColor=EDE9FE&fontAlignY=44&desc=%5B%20AI%20Systems%20Builder%20%C2%B7%20Full-Stack%20Product%20Engineer%20%C2%B7%20Dhaka%2C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9%20%5D&descAlignY=67&descSize=14&stroke=7C3AED&strokeWidth=2&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Building+Starline+%E2%80%94+digitizing+BD+bus+travel+%F0%9F%9A%8C;Crafting+a+personal+Jarvis+AI+%F0%9F%A4%96+%7C+Qwen2.5+%2B+LangGraph;Full-Stack+Dev+%40+BRAC+University+%F0%9F%8E%93;Open+to+research+%26+collaboration+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=%24+./starline+--mode+production+%7C+Digitizing+BD+transport+%F0%9F%9A%8C;%24+./jarvis+--phase+3+%7C+Qwen2.5+14B+%2B+LangGraph+%2B+Whisper+%F0%9F%A4%96;%24+./nongorr+--env+live+%7C+nongorr.com+%F0%9F%9B%8D%EF%B8%8F;%24+man+kazisalman21+%7C+grep+identity)](https://github.com/kazisalman21)
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=kazisalman21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=7C3AED&text_color=E2D9F3&ring_color=7C3AED" />
-
-### 👾 Who am I?
+## &nbsp;`$ whoami`
 
 ```yaml
-name: Kazi Salman
-location: Dhaka, Bangladesh 🇧🇩
-university: BRAC University — CSE
-focus:
-  - Civic tech & public infrastructure
-  - AI agents & personal assistants
-  - Full-stack product development
-currently_building:
-  - 🚌 Starline — BD bus digitization platform
-  - 🤖 Personal-AI — local Jarvis (Qwen2.5 14B)
-  - 🛍️ Nongorr — handmade fashion e-commerce
-goal: Research abroad (AI/ML) + ship real products
-```
+name       : Kazi Salman
+role       : AI Systems Builder · Full-Stack Product Engineer
+location   : Dhaka, Bangladesh  🇧🇩
+education  : BRAC University — B.Sc. CSE
+hardware   : NVIDIA RTX 3060 12GB  (local AI stack lives here)
 
-<br clear="right"/>
+building   :
+  - Starline       → digital backbone for intercity bus transport in BD
+  - Personal-AI    → a practical local JARVIS — built to actually use, not just demo
+  - Nongorr        → premium e-commerce for handmade Bangladeshi fashion
+
+principle  : Ship real things. For real people. With real proof.
+long_dream : A system that thinks, builds, and acts alongside me.
+```
 
 ---
 
-## 🚀 Flagship Projects
+## &nbsp;`$ ps aux` &nbsp;—&nbsp; Active Processes
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚌 [Starline Platform](https://github.com/kazisalman21/star_line_main)
-Digital transformation for **Star Line Special Ltd.** — one of Bangladesh's major intercity bus operators.
+**🚌 &nbsp;[`starline`](https://github.com/kazisalman21/star_line_main) &nbsp;&nbsp;[PID-001 · RUNNING]**
 
-`React` `TypeScript` `Node.js` `GPS` `Payments`
+```
+PROBLEM  Millions of BD passengers rely on
+         manual, counter-based ticketing.
+         Zero digital infrastructure.
 
-> Formal proposal submitted · Admin dashboard built · Booking demo live
+BUILT    Booking engine · Admin dashboard
+         GPS tracking · Payment gateway
+         Driver management app
+
+STACK    React · TypeScript · Node.js
+         PostgreSQL · Recharts
+
+PROOF    Formal proposal → Star Line Ltd.
+         Dashboard shipped · Demo live
+
+WHY      A digital infrastructure layer for
+         BD's offline transport sector
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [Personal-AI (Jarvis)](https://github.com/kazisalman21/Personal-AI)
-Local autonomous AI assistant — voice-activated, tool-using, running entirely on my RTX 3060.
+**🤖 &nbsp;[`personal-ai`](https://github.com/kazisalman21/Personal-AI) &nbsp;&nbsp;[PID-002 · BUILDING]**
 
-`Python` `LangGraph` `Qwen2.5 14B` `Whisper` `Piper`
+```
+PROBLEM  No off-the-shelf assistant fits.
+         Cloud costs. Privacy risks.
+         No real tool use. Just chatbots.
 
-> Phase 1 & 2 complete · File tools · Code execution · Safety enforced
+BUILT    CLI agent loop · Model fallback
+         File I/O · Code execution
+         System tools · Safety enforced
+
+STACK    Python · LangGraph · Qwen2.5 14B
+         Whisper STT · Piper TTS · Ollama
+
+PROOF    Phase 1 ✅  Phase 2 ✅
+         Phase 3 🔄 (voice interface)
+
+WHY      Runs fully offline. No API costs.
+         A machine that thinks with me.
+```
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🩸 [Blood Donation Platform](https://github.com/kazisalman21/blood-donation-platform)
-Emergency donor-patient matching system built for **CSE470 Software Engineering**.
+**🩸 &nbsp;[`blood-donation`](https://github.com/kazisalman21/blood-donation-platform) &nbsp;&nbsp;[PID-003 · SHIPPED]**
 
-`JavaScript` `Node.js` `MongoDB` `Express`
+```
+PROBLEM  Finding blood in BD emergencies
+         is chaotic, slow, unorganized.
 
-> Full SRS documented · MERN stack · Group project lead
+BUILT    Location-based donor search
+         Real-time patient matching
+         Clean donor registry system
+
+STACK    JavaScript · Node.js · MongoDB
+
+PROOF    Full SRS documented
+         Built for CSE470 · MERN stack
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛍️ [Nongorr Brand](https://github.com/kazisalman21/nongor-brand)
-Full-stack e-commerce for a Bangladeshi handmade kurti brand — with SSR, invoicing & admin.
+**🛍️ &nbsp;[`nongorr-brand`](https://github.com/kazisalman21/nongor-brand) &nbsp;&nbsp;[PID-004 · LIVE]**
 
-`Node.js` `PostgreSQL` `Cloudinary` `Vercel` `Resend`
+```
+PROBLEM  BD artisan brands have no modern
+         e-commerce infrastructure.
 
-> Live at [nongorr.com](https://nongorr.com) · SEO + structured data · Custom email infra
+BUILT    Full storefront · Admin panel
+         Order tracking · Auto invoicing
+         Custom transactional email infra
+
+STACK    Node.js · PostgreSQL (Neon)
+         Cloudinary · Vercel · Resend
+
+PROOF    Live → nongorr.com
+         SEO + JSON-LD + llms.txt live
+```
 
 </td>
 </tr>
@@ -88,88 +134,81 @@ Full-stack e-commerce for a Bangladeshi handmade kurti brand — with SSR, invoi
 
 ---
 
-## 🧠 Tech Arsenal
+## &nbsp;`$ cat stack.conf`
 
 <div align="center">
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,tailwind,nodejs,postgres,mongodb,git,github,vercel,vscode&theme=dark" />
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+</div>
 
-**Backend & DB**
+```toml
+[core]
+languages   = ["TypeScript", "Python", "JavaScript", "C"]
+frontend    = ["React", "Tailwind CSS", "HTML/CSS"]
+backend     = ["Node.js", "Express", "REST APIs"]
+databases   = ["PostgreSQL (Neon)", "MongoDB", "Cloudinary"]
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+[ai_stack]
+llm         = "Qwen2.5 14B Q4"
+framework   = "LangGraph"
+inference   = "Ollama on NVIDIA RTX 3060 12GB"
+speech      = ["Whisper (STT)", "Piper (TTS)"]
 
-**AI / ML Stack**
+[infra]
+deploy      = ["Vercel", "GitHub Actions"]
+tools       = ["Git", "VS Code", "Resend", "Cloudinary"]
+```
 
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![OpenAI Whisper](https://img.shields.io/badge/Whisper-0D1117?style=for-the-badge&logo=openai&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/RTX_3060-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
+---
 
-**DevOps & Tools**
+## &nbsp;`$ tail -f jarvis.log` &nbsp;—&nbsp; Road to JARVIS
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+```log
+[2023]      DREAM.init ............. Decided to actually build it. Not just imagine it.
+[2024]      RESEARCH.start ......... Studied LLMs, agent frameworks, and local inference.
+[2025 Q1]   PHASE_1.complete  ✅ .. CLI chat loop. Ollama integration. Model fallback.
+[2025 Q3]   PHASE_2.complete  ✅ .. Tool execution: file I/O, code runner, safety layer.
+[2026 Q1]   PHASE_3.running   🔄 .. Voice I/O: Whisper STT + Piper TTS + wake word.
+[2026 Q4]   PHASE_4.planned   ⏳ .. Memory: long-term context + personal knowledge base.
+[TBD]       PHASE_5.planned   🌌 .. Proactive agent: monitors, schedules, acts on its own.
+[∞]         FINAL_STATE ........... A system that thinks, builds, and acts alongside me.
+                                    Not a product. Not a demo. A permanent co-pilot.
+```
+
+---
+
+## &nbsp;`$ htop` &nbsp;—&nbsp; Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kazisalman21&bg_color=000000&color=A78BFA&line=7C3AED&point=F59E0B&area=true&area_color=1a0533&hide_border=true&custom_title=%E2%96%BA%20Contribution%20Timeline%20%E2%80%94%20kazisalman21&radius=4" />
+
+<img width="54%" src="https://streak-stats.demolab.com?user=kazisalman21&theme=dark&hide_border=true&background=000000&stroke=7C3AED&ring=A78BFA&fire=F59E0B&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=7C3AED&dates=4B5563&border_radius=4" />
 
 </div>
 
 ---
 
-## 📊 Stats & Activity
+## &nbsp;`$ uplink --open`
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=kazisalman21&theme=tokyonight&hide_border=true&background=00000000&stroke=7C3AED&ring=A78BFA&fire=F59E0B&currStreakNum=E2D9F3&sideNums=E2D9F3&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B7280" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazisalman21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E2D9F3" />
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kazisalman21&bg_color=0d1117&color=A78BFA&line=7C3AED&point=F59E0B&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazisalman21&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kazisalman21/kazisalman21/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kazisalman21/kazisalman21/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kazisalman21/kazisalman21/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/kazisalman840%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kazisalman840@gmail.com)
-[![Facebook](https://img.shields.io/badge/kazi.23-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/kazi.23)
-[![GitHub](https://img.shields.io/badge/kazisalman21-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kazisalman21)
-[![Nongorr](https://img.shields.io/badge/nongorr.com-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://nongorr.com)
+<a href="mailto:kazisalman840@gmail.com">
+  <img src="https://img.shields.io/badge/_%20kazisalman840@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0f0a1e"/>
+</a>
+&nbsp;
+<a href="https://github.com/kazisalman21">
+  <img src="https://img.shields.io/badge/_%20kazisalman21-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0a1e"/>
+</a>
+&nbsp;
+<a href="https://nongorr.com">
+  <img src="https://img.shields.io/badge/_%20nongorr.com-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0a1e"/>
+</a>
+&nbsp;
+<a href="https://facebook.com/kazi.23">
+  <img src="https://img.shields.io/badge/_%20kazi.23-000000?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0f0a1e"/>
+</a>
 
 </div>
 
@@ -177,10 +216,14 @@ Full-stack e-commerce for a Bangladeshi handmade kurti brand — with SSR, invoi
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+```
+  "I don't build for portfolios.
+   I build because the problems are real,
+   and the people who have them deserve better software."
 
-<br/><br/>
+                                             — Kazi Salman
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:2d1b69,100:0a0a0a&height=130&section=footer&text=Ship%20real%20things.%20For%20real%20people.&fontSize=20&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:1a0533,100:000000&height=90&section=footer&text=SYSTEM+UPTIME%3A+ONGOING&fontSize=13&fontColor=7C3AED&fontAlignY=55&animation=fadeIn" />
 
 </div>
