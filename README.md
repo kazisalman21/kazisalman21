@@ -122,6 +122,8 @@ WHY      A complete digital commerce backbone
 ```
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🤖 &nbsp;[`personal-ai`](https://github.com/kazisalman21/Personal-AI) &nbsp;&nbsp;[PID-002 · BUILDING]**
@@ -146,8 +148,7 @@ WHY      Runs fully offline. No API costs.
 ```
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
 **🩸 &nbsp;[`blood-donation`](https://github.com/kazisalman21/blood-donation-platform) &nbsp;&nbsp;[PID-003 · SHIPPED]**
