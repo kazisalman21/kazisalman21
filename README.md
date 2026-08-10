@@ -42,25 +42,38 @@ long_dream : A system that thinks, builds, and acts alongside me.
 <tr>
 <td width="50%" valign="top">
 
-**🚌 &nbsp;[`starline`](https://github.com/kazisalman21/star_line_main) &nbsp;&nbsp;[PID-001 · RUNNING]**
+**🚌  [`starline`](https://github.com/kazisalman21/star_line_main)  [PID-001 · RUNNING]**
 
-```
-PROBLEM  Millions of BD passengers rely on
-         manual, counter-based ticketing.
-         Zero digital infrastructure.
+```text
+PROBLEM  Intercity bus operations in BD still
+         depend heavily on fragmented booking,
+         counter, cash and operational workflows.
 
-BUILT    Booking engine · Admin dashboard
-         GPS tracking · Payment gateway
-         Driver management app
+BUILT    Passenger booking + seat engine
+         Counter SmartPOS + shift/cash control
+         Admin & operations control room
+         Finance, settlement & refund workflows
+         Customer support + passenger history
+         Driver/onboard web tools + live tracking
+         E-ticket/QR + SSLCommerz integration
 
-STACK    React · TypeScript · Node.js
-         PostgreSQL · Recharts
+STACK    React 18 · TypeScript · Vite
+         Supabase · PostgreSQL · Edge Functions
+         Mapbox · SSLCommerz · Sentry · Vercel
 
-PROOF    Formal proposal → Star Line Ltd.
-         Dashboard shipped · Demo live
+PROOF    Formal proposal → Star Line Group
+         Working end-to-end demo foundation
+         418 web source files · 166 DB migrations
+         64 automated test files · 23 E2E scenarios
 
-WHY      A digital infrastructure layer for
-         BD's offline transport sector
+STATUS   Client demonstration foundation built.
+         Requirements discovery + production
+         validation/customisation now define
+         the final deployment scope.
+
+WHY      One connected digital operating layer
+         for passenger sales, counters, finance,
+         support, fleet and transport operations.
 ```
 
 </td>
