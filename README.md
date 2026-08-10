@@ -79,6 +79,51 @@ WHY      One connected digital operating layer
 </td>
 <td width="50%" valign="top">
 
+**🛍️ &nbsp;[`nongorr-brand`](https://nongorr.com) &nbsp;&nbsp;[PID-004 · LIVE]**
+
+```
+PROBLEM  Growing handmade fashion brands need
+         more than a basic storefront: product,
+         order, customer, content and fulfilment
+         workflows must operate as one system.
+
+BUILT    SSR e-commerce storefront + catalogue
+         Cart, checkout + order management
+         Customer accounts, wishlist + reviews
+         Admin dashboard + role-based access
+         CMS, banners + founder/content tools
+         Inventory, coupons + custom sizing
+         Payment evidence + invoice workflows
+         Pathao & SteadFast courier integration
+         SEO, sitemap, JSON-LD + structured data
+         Audit logs, MFA + security controls
+
+STACK    React 19 · TypeScript · TanStack Start
+         TanStack Router · Vite · Nitro
+         Supabase · PostgreSQL · Auth · Storage
+         Tailwind CSS · Vercel
+
+PROOF    Production site → nongorr.com
+         ~610 tracked source/config files
+         100+ SQL migration & database test files
+         66 Vitest files · ~750 automated tests
+         Playwright E2E + DB integration tests
+         CodeQL · CI/CD · backup/restore tooling
+
+STATUS   Core commerce platform is live.
+         Security, legal-content and operational
+         hardening are being completed before
+         wider production growth.
+
+WHY      A complete digital commerce backbone
+         for Nongorr — from product discovery
+         and ordering to fulfilment, customers,
+         content and day-to-day administration.
+```
+
+</td>
+<td width="50%" valign="top">
+
 **🤖 &nbsp;[`personal-ai`](https://github.com/kazisalman21/Personal-AI) &nbsp;&nbsp;[PID-002 · BUILDING]**
 
 ```
@@ -122,51 +167,7 @@ PROOF    Full SRS documented
 ```
 
 </td>
-<td width="50%" valign="top">
 
-**🛍️ &nbsp;[`nongorr-brand`](https://github.com/kazisalman21/nongor-brand) &nbsp;&nbsp;[PID-004 · LIVE]**
-
-```
-PROBLEM  Growing handmade fashion brands need
-         more than a basic storefront: product,
-         order, customer, content and fulfilment
-         workflows must operate as one system.
-
-BUILT    SSR e-commerce storefront + catalogue
-         Cart, checkout + order management
-         Customer accounts, wishlist + reviews
-         Admin dashboard + role-based access
-         CMS, banners + founder/content tools
-         Inventory, coupons + custom sizing
-         Payment evidence + invoice workflows
-         Pathao & SteadFast courier integration
-         SEO, sitemap, JSON-LD + structured data
-         Audit logs, MFA + security controls
-
-STACK    React 19 · TypeScript · TanStack Start
-         TanStack Router · Vite · Nitro
-         Supabase · PostgreSQL · Auth · Storage
-         Tailwind CSS · Vercel
-
-PROOF    Production site → nongorr.com
-         ~610 tracked source/config files
-         100+ SQL migration & database test files
-         66 Vitest files · ~750 automated tests
-         Playwright E2E + DB integration tests
-         CodeQL · CI/CD · backup/restore tooling
-
-STATUS   Core commerce platform is live.
-         Security, legal-content and operational
-         hardening are being completed before
-         wider production growth.
-
-WHY      A complete digital commerce backbone
-         for Nongorr — from product discovery
-         and ordering to fulfilment, customers,
-         content and day-to-day administration.
-```
-
-</td>
 </tr>
 </table>
 
