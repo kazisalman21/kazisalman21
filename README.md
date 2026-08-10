@@ -21,7 +21,6 @@ name       : Kazi Salman
 role       : AI Systems Builder · Full-Stack Product Engineer
 location   : Dhaka, Bangladesh  🇧🇩
 education  : BRAC University — B.Sc. CSE
-hardware   : NVIDIA RTX 3060 12GB  (local AI stack lives here)
 
 building   :
   - Starline       → digital backbone for intercity bus transport in BD
@@ -42,7 +41,7 @@ long_dream : A system that thinks, builds, and acts alongside me.
 <tr>
 <td width="50%" valign="top">
 
-**🚌  [`starline`](https://github.com/kazisalman21/star_line_main)  [PID-001 · RUNNING]**
+**🚌  [`starline`](https://https://star-line-main.vercel.app/)  [PID-001 · RUNNING]**
 
 ```text
 PROBLEM  Intercity bus operations in BD still
