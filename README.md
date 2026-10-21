@@ -10,6 +10,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=%24+./starline+--mode+production+%7C+Digitizing+BD+transport+%F0%9F%9A%8C;%24+./jarvis+--phase+3+%7C+Qwen2.5+14B+%2B+LangGraph+%2B+Whisper+%F0%9F%A4%96;%24+./nongorr+--env+live+%7C+nongorr.com+%F0%9F%9B%8D%EF%B8%8F;%24+man+kazisalman21+%7C+grep+identity)](https://github.com/kazisalman21)
 
+<br/>
+
+<a href="https://kazisalman.dev"><img src="https://img.shields.io/badge/kazisalman.dev-step_into_my_3D_studio-000000?style=for-the-badge&labelColor=7C3AED&color=0f0a1e" alt="kazisalman.dev: step into my 3D studio"/></a>
+
 </div>
 
 ---
@@ -17,10 +21,11 @@
 ## &nbsp;`$ whoami`
 
 ```yaml
-name       : Kazi Salman
+name       : Kazi Salman (Kazi Salman Salim)
 role       : AI Systems Builder · Full-Stack Product Engineer
 location   : Dhaka, Bangladesh  🇧🇩
-education  : BRAC University — B.Sc. CSE
+website    : https://kazisalman.dev
+education  : BRAC University — B.Sc. in Computer Science (2023–2027)
 
 building   :
   - Starline       → digital backbone for intercity bus transport in BD
@@ -41,7 +46,7 @@ long_dream : A system that thinks, builds, and acts alongside me.
 <tr>
 <td width="50%" valign="top">
 
-**🚌  [`starline`](https://https://star-line-main.vercel.app/)  [PID-001 · RUNNING]**
+**🚌  [`starline`](https://star-line-main.vercel.app/)  [PID-001 · RUNNING]**
 
 ```text
 PROBLEM  Intercity bus operations in BD still
@@ -231,6 +236,14 @@ tools       = ["Git", "VS Code", "Resend", "Cloudinary"]
 
 <div align="center">
 
+<a href="https://kazisalman.dev">
+  <img src="https://img.shields.io/badge/_%20kazisalman.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=0f0a1e"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kazi-salman-000930407">
+  <img src="https://img.shields.io/badge/_%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0f0a1e"/>
+</a>
+&nbsp;
 <a href="mailto:kazisalman840@gmail.com">
   <img src="https://img.shields.io/badge/_%20kazisalman840@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0f0a1e"/>
 </a>
@@ -243,8 +256,8 @@ tools       = ["Git", "VS Code", "Resend", "Cloudinary"]
   <img src="https://img.shields.io/badge/_%20nongorr.com-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0a1e"/>
 </a>
 &nbsp;
-<a href="https://facebook.com/kazi.23">
-  <img src="https://img.shields.io/badge/_%20kazi.23-000000?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0f0a1e"/>
+<a href="https://www.facebook.com/kazi.salman.23">
+  <img src="https://img.shields.io/badge/_%20kazi.salman.23-000000?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0f0a1e"/>
 </a>
 
 </div>
