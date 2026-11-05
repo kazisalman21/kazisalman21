@@ -38,7 +38,7 @@ I'm **Kazi Salman** (Kazi Salman Salim), a software engineer in Dhaka, Banglades
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-contact-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/label-contact-light.svg"><img src="assets/label-contact-dark.svg" alt="Contact"></picture>
 
-**[kazisalman.dev](https://kazisalman.dev)** · [Book a call](https://cal.com/kazi-salman-gt1ava/30min) · [Email](mailto:kazisalman840@gmail.com) · [WhatsApp](https://wa.me/8801948176706) · [LinkedIn](https://www.linkedin.com/in/kazi-salman-000930407) · [Facebook](https://www.facebook.com/kazi.salman.23)
+**[kazisalman.dev](https://kazisalman.dev)** · [Book a call](https://cal.com/kazi-salman-gt1ava/30min) · [Email](mailto:kazisalman840@gmail.com) · [WhatsApp](https://wa.me/8801948176706) · [LinkedIn](https://www.linkedin.com/in/kazisalman21) · [Facebook](https://www.facebook.com/kazi.salman.23)
 
 Open to freelance projects, collaborations and opportunities.
 
