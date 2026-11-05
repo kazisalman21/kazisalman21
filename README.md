@@ -4,7 +4,7 @@
   <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-m-dark.svg"><source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/hero-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img src="assets/hero-dark.svg" width="100%" alt="Kazi Salman, software engineer in Dhaka: full-stack web, local-first AI and real-time 3D. Enter the 3D studio at kazisalman.dev"></picture>
 </a>
 
-I'm **Kazi Salman** (Kazi Salman Salim), a software engineer in Dhaka, Bangladesh. I build full-stack web products, local-first AI and real-time 3D for the web, and I study for a B.Sc. in Computer Science at BRAC University (2023–2027). My portfolio, **[kazisalman.dev](https://kazisalman.dev)**, is a 3D studio you can walk into: modelled in Blender, running live in the browser.
+I'm **Kazi Salman** (Kazi Salman Salim), a software engineer in Dhaka. I build full-stack web products, Android apps, local-first AI and real-time 3D, and I'm finishing a B.Sc. in Computer Science at BRAC University (2027). My portfolio, **[kazisalman.dev](https://kazisalman.dev)**, is a 3D studio you can walk into.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-work-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/label-work-light.svg"><img src="assets/label-work-dark.svg" alt="Selected work"></picture>
 
@@ -15,10 +15,9 @@ I'm **Kazi Salman** (Kazi Salman Salim), a software engineer in Dhaka, Banglades
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-now-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/label-now-light.svg"><img src="assets/label-now-dark.svg" alt="Now"></picture>
 
-- **Starline:** taking the platform from a working demo to the operator's requirements and production.
+- **Starline:** taking the web platform and Android apps from a working demo to production.
 - **Jarvis:** phase 3, voice in and out (Whisper and Piper) with a wake word.
 - **The studio:** a drivable Dhaka with real traffic is on its way to [kazisalman.dev](https://kazisalman.dev).
-- **BRAC University:** Fall 2026 semester, graduating in 2027.
 
 <details>
 <summary><b>Road to JARVIS</b></summary>
